@@ -31,7 +31,7 @@
         <mockito.version>3.1.0</mockito.version>
         <powermock.version>2.0.2</powermock.version>
         <problem-spring-web.version>0.22.2</problem-spring-web.version>
-        <commonsIO.version>2.4</commonsIO.version>
+        <commonsIO.version>2.7</commonsIO.version>
         <commonsLang3.version>3.9</commonsLang3.version>
         <jodatime.version>2.9.2</jodatime.version>
         <resteasy.version>3.1.4.Final</resteasy.version>
